@@ -1,5 +1,5 @@
 // Your name appears in the top navigation and page titles.
-export const name = "Your Name";
+export const name = "Maryam Kermani";
 export const websiteDescription = `${name}'s personal website.`;
 
 // Add, remove, or reorder links here. href accepts local paths or external URLs.
@@ -18,13 +18,13 @@ export const ownerProfile = {
     alt: `Portrait of ${name}`,
   },
   facts: [
-    { label: "Now", value: "Your current role or location" },
-    { label: "Studying", value: "What you're studying or working on" },
-    { label: "Interests", value: "Your main interests" },
+    { label: "Now", value: "Freshman Undergraduate at MIT" },
+    { label: "Studying", value: "Bioengineering" },
+    { label: "Interests", value: "cancer research" },
     {
       label: "Contact",
-      value: "you@example.com",
-      href: "mailto:you@example.com",
+      value: "maryammk@mit.edu",
+      href: "mailto:maryammk@mit.edu",
     },
   ],
   // Heading for the links section below the profile facts.
@@ -32,7 +32,7 @@ export const ownerProfile = {
   // Replace these example URLs with yours.
   // Add, remove, or reorder entries; use [] to hide the list.
   links: [
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/your-username/" },
+    { label: "LinkedIn", href: "www.linkedin.com/in/maryam-kermani-28a817366" },
     { label: "Google Scholar", href: "https://scholar.google.com/citations?user=your-id" },
   ],
 };
